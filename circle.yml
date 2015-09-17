@@ -3,6 +3,6 @@ deployment:
     branch: master
     heroku:
       appname: tipsy-toy-app
-machine:
-  ruby: 2.1.0
-  # version: 
+# machine:
+#   ruby: 2.1.0
+#   # version: 
